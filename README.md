@@ -1,2 +1,2 @@
 # lab-infra-ti
-Laboratório de Infraestrutura de TI  Este repositório contém meus estudos práticos envolvendo:  - Active Directory - Windows Server - Linux - Redes - Automação - VMware  Objetivo: evolução profissional e consolidação de conhecimento prático.
+Laboratório prático de Infraestrutura de TI com foco em simulação de ambientes corporativos. Projetos envolvendo Active Directory, Windows Server, Linux, redes, automação e virtualização com VMware. Repositório voltado ao desenvolvimento técnico e consolidação de experiência prática.
